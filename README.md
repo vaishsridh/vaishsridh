@@ -22,12 +22,13 @@
 
   <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white" />
   <img alt="Cucumber" src="https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 
 </p>
 
 ### Technologies I'm currently learning:
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
 
