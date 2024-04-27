@@ -28,7 +28,7 @@
 
 ### Technologies I'm currently learning:
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-232F3E?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 
