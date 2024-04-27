@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-vaishnavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaish21sridh/)](https://www.linkedin.com/in/vaish21sridh/)
 [![Github Badge](https://img.shields.io/badge/-vaishnavi-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/vaishsridh/)](https://github.com/vaishsridh/)
-[![Website Badge](https://img.shields.io/badge/-portfolio-violet?style=flat-square&logo=google-chrome&logoColor=white&link=[[https://manparvesh.com/](https://vaish-portfolio.netlify.app/)](https://vaish-portfolio.netlify.app/))]([[https://manparvesh.com/](https://vaish-portfolio.netlify.app/)](https://vaish-portfolio.netlify.app/))
 
 <h3>Technologies I work with:</h3>
 <p>
